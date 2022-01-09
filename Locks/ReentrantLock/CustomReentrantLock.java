@@ -1,4 +1,4 @@
-package Locks;
+package ReentrantLock;
 
 public class CustomReentrantLock {
 
